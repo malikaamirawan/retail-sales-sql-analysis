@@ -1,0 +1,47 @@
+1️⃣ Project Title
+Retail Sales Analysis Using SQL
+________________________________________
+2️⃣ Project Description
+Example:
+This project analyzes retail sales data using SQL.
+The goal is to extract business insights such as top customers, best-selling products, revenue by category, and monthly sales trends.
+________________________________________
+3️⃣ Database Schema
+Explain your tables.
+Customers
+Column	Description
+customer_id	Unique customer identifier
+customer_name	Customer name
+city	Customer location
+Products
+Column	Description
+product_id	Unique product identifier
+product_name	Name of product
+category	Product category
+price	Product price
+Orders
+Column	Description
+order_id	Unique order identifier
+customer_id	Customer who placed the order
+product_id	Product purchased
+quantity	Number of items
+order_date	Date of purchase
+________________________________________
+4️⃣ Key Business Questions
+Example:
+•	Who are the top spending customers?
+•	Which products generate the most revenue?
+•	Which city generates the highest sales?
+•	What are the monthly sales trends?
+•	Which products sell the most?
+________________________________________
+5️⃣ SQL Skills Used
+•	SELECT
+•	WHERE
+•	ORDER BY
+•	GROUP BY
+•	HAVING
+•	INNER JOIN
+•	Aggregate Functions (SUM, AVG, COUNT, MAX, MIN)
+________________________________________
+
